@@ -2,6 +2,12 @@
 End-to-end Power BI dashboard analyzing digital payment transactions, customer spending behavior, and revenue trends across card types, income groups, and payment methods.
 
 
+
+<img width="861" height="492" alt="image" src="C:\Users\admin\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-04-25 224120.png" />
+
+
+
+
 # Digital Payment Analytics Dashboard
 
 This project analyzes customer spending patterns and digital payment trends using Power BI.  
