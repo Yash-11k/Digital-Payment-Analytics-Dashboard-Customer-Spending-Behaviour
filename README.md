@@ -3,7 +3,7 @@ End-to-end Power BI dashboard analyzing digital payment transactions, customer s
 
 
 
-![Dashboard Screenshot](DigitalPayments.png)
+
 
 
 
