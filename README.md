@@ -5,8 +5,8 @@ End-to-end Power BI dashboard analyzing digital payment transactions, customer s
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/Yash-11k/Digital-Payment-Analytics-Dashboard-Customer-Spending-Behaviour/blob/main/Digital%20Payments.png)
-![Dashboard](Customer Behaviour.png)
+![Digital Paymnets ANalytics Dashboard](https://github.com/Yash-11k/Digital-Payment-Analytics-Dashboard-Customer-Spending-Behaviour/blob/main/Digital%20Payments.png)
+![Customer Spending Anlytics Intelligence DAshboard](https://github.com/Yash-11k/Digital-Payment-Analytics-Dashboard-Customer-Spending-Behaviour/blob/main/Customer%20Behaviour.png)
 
 
 
