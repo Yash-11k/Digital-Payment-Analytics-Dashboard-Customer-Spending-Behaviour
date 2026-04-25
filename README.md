@@ -3,7 +3,6 @@ End-to-end Power BI dashboard analyzing digital payment transactions, customer s
 
 
 
-<img width="861" height="492" alt="image" src="C:\Users\admin\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-04-25 224120.png" />
 
 
 
